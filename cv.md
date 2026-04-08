@@ -209,7 +209,7 @@ AAF National Student Advertising Competition (NSAC): Advanced to
 nationals by defeating Big Ten programs---Indiana, Purdue, University of
 Michigan, Michigan State---at the district level
 
-ATS KEYWORDS: GTM Systems • GTM Strategy • Go-to-Market Transformation •
+GTM Systems • GTM Strategy • Go-to-Market Transformation •
 Sales Technology Strategy • Revenue Operations • RevOps • Sales
 Operations • AI Agent Direction • AI Implementation • Sales Process
 Automation • Marketing Automation • CRM Architecture • HubSpot •
